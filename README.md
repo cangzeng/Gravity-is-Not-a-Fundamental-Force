@@ -4,7 +4,7 @@
 
 ## 📖 Introduction
 
-This repository houses researchs on mathematical physics, including quantum time, Millennium Problems, and more.
+Gravity is Not a Fundamental Force
 
 ## 📁 Repository Directory Structure 
 
