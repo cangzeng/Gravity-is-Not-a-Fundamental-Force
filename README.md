@@ -17,8 +17,8 @@ The research offers falsifiable predictions, including corrections to gravitatio
       Gravity is Not a Fundamental Force
 
 A.  Gravity is Not a Fundamental Force A; Spacetime Thermodynamics and the Emergence of Gravity
-
 B.  Gravity is Not a Fundamental Force B; Discusstion of the Particularity of Graviton
+C.  Gravity is Not a Fundamental Force C; Manifestations of Gravity and the Other Three Forces Inside Black Holes.
 
 
 
@@ -31,8 +31,14 @@ B.  Gravity is Not a Fundamental Force B; Discusstion of the Particularity of Gr
 
 | Title | Author | Year | Abstract |
 | :--- | :--- | :--- | :--- |
-| [2.  Gravity is Not a Fundamental Force A; Spacetime Thermodynamics and the Emergence of Gravity]( https://doi.org/10.5281/zenodo.17111933) |  Zhou Changzheng,Zhou Ziqing| 2025 | emergence of gravity, entropic force, spacetime thermodynamics, holographic principle, quantum gravity|
-| [2.  Gravity is Not a Fundamental Force B; Discusstion of the Particularity of Graviton](https://doi.org/10.5281/zenodo.17111946) |Zhou Changzheng, Zhou Ziqing | 2025  | graviton; spin; quasi-particle; emergence of gravity; holographic principle; quantum gravity|
+| [Gravity is Not a Fundamental Force A; Spacetime Thermodynamics and the Emergence of Gravity]( https://doi.org/10.5281/zenodo.17111933) |  Zhou Changzheng,Zhou Ziqing| 2025 | emergence of gravity, entropic force, spacetime thermodynamics, holographic principle, quantum gravity|
+| [Gravity is Not a Fundamental Force B; Discusstion of the Particularity of Graviton](https://doi.org/10.5281/zenodo.17111946) |Zhou Changzheng, Zhou Ziqing | 2025  | graviton; spin; quasi-particle; emergence of gravity; holographic principle; quantum gravity|
+| [Gravity is Not a Fundamental Force C; Manifestations of Gravity and the Other Three Forces Inside Black Holes.](https://doi.org/10.5281/zenodo.17115757) |  Zhou Changzheng,Zhou Ziqing| 2025 |  Gravity; Emergence; Holographic Principle; Entropic Force; Cosmology; Black Holes|
+| [Gravity is Not a Fundamental Force D; Quantum Entanglement and Spacetime Entropic Force.](https://doi.org/10.5281/zenodo.17115865) |Zhou Changzheng, Zhou Ziqing | 2025| Emergent Gravity, Quantum Entanglement, Holographic Principle, Entropic Force, Spacetime Thermodynamics|
+
+
+
+
 
 
 
