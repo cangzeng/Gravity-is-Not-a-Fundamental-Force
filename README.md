@@ -19,7 +19,7 @@ The research offers falsifiable predictions, including corrections to gravitatio
 A.  Gravity is Not a Fundamental Force A; Spacetime Thermodynamics and the Emergence of Gravity
 B.  Gravity is Not a Fundamental Force B; Discusstion of the Particularity of Graviton
 C.  Gravity is Not a Fundamental Force C; Manifestations of Gravity and the Other Three Forces Inside Black Holes.
-
+D.  Gravity is Not a Fundamental Force D; Quantum Entanglement and Spacetime Entropic Force.
 
 
 
