@@ -38,6 +38,8 @@ D.  Gravity is Not a Fundamental Force D; Quantum Entanglement and Spacetime Ent
 | [Gravity is Not a Fundamental Force B; Discusstion of the Particularity of Graviton](https://doi.org/10.5281/zenodo.17111946) |Zhou Changzheng, Zhou Ziqing | 2025  | graviton; spin; quasi-particle; emergence of gravity; holographic principle; quantum gravity|
 | [Gravity is Not a Fundamental Force C; Manifestations of Gravity and the Other Three Forces Inside Black Holes.](https://doi.org/10.5281/zenodo.17115757) |  Zhou Changzheng,Zhou Ziqing| 2025 |  Gravity; Emergence; Holographic Principle; Entropic Force; Cosmology; Black Holes|
 | [Gravity is Not a Fundamental Force D; Quantum Entanglement and Spacetime Entropic Force.](https://doi.org/10.5281/zenodo.17115865) |Zhou Changzheng, Zhou Ziqing | 2025| Emergent Gravity, Quantum Entanglement, Holographic Principle, Entropic Force, Spacetime Thermodynamics|
+| [Gravity is Not a Fundamental Force C; Manifestations of Gravity and the Other Three Forces Inside Black Holes.](https://doi.org/10.5281/zenodo.17115757) |  Zhou Changzheng,Zhou Ziqing| 2025 |  Gravity; Emergence; Holographic Principle; Entropic Force; Cosmology; Black Holes|
+| [Gravity is Not a Fundamental Force F; Quantum Complexity as the Emergence of Spacetime and Gravity.](https://doi.org/10.5281/zenodo.17118732) |Zhou Changzheng, Zhou Ziqing | 2025|Emergent gravity; Quantum complexity; Holographic principle; Spacetime geometry; Quantum computation; Black hole physics|
 
 
 
